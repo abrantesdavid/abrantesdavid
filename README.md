@@ -8,9 +8,8 @@
 
 ### Sobre mim
 
-- 🎓 Bacharelado em Física
-- 🔭 Interesse em Física, Matemática e Computação
-- ⚛️ Foco em simulação computacional aplicada à Física e estudo de Física de Partículas
+- Interesse em Física, Matemática e Computação
+- Foco em simulação computacional aplicada à Física e estudo de Física de Partículas
 
 ---
 
